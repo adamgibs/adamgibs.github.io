@@ -1,0 +1,62 @@
+body { 
+    padding-top:65px;
+    position: relative;
+    font-family: Helvetica, sans-serif;
+    color: grey;
+}
+
+@media screen and (max-width: 768px) {
+    body { padding-top: 65px; }
+}
+
+section {
+  padding-top 50px;
+  min-height:500px;
+  margin-bottom:100px;
+  color: black;
+  background-color: white;
+  outline:1px solid black;
+}
+
+
+
+.thumbnail{
+  height: 150px;
+  
+}
+
+.img-responsive{
+  padding: 10px;
+}
+
+#about-me-content{
+  padding-top:100px;
+}
+
+#social-icons{
+  padding-top: 100px;
+}
+
+.site-footer{
+  background-color:#222;
+  color:#fff;
+  margin-top:30px;
+  padding-top:30px;
+}
+
+.fa{
+  padding: 5px;
+}
+
+hr{
+  border: 1px solid black;
+  width: 50%;
+}
+.carousel-caption{
+  color:black;
+  position: relative;
+  left: auto;
+  right: auto;
+}
+
+
